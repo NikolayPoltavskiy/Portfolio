@@ -4,4 +4,10 @@ h1 {color: red;}
     color: black;
     font-size: 25px;
     margin: 5px;
+    display: inline-block;
+}
+
+.menu {
+    display: block;
+    text-align: center;
 }
