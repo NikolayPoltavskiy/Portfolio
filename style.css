@@ -1,17 +1,17 @@
 h1 {color: red;}
 
 .item {
-    margin: 5px;
     display: inline-block;
-    padding: 15px;
 }
 
 .link {
     color: black;
     font-size: 25px;
-    margin: 5px;
     display: inline-block;
-    padding: 15px;
+    margin: 10px;
+    padding: 25px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .item a {
