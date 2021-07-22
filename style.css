@@ -1,6 +1,12 @@
 h1 {color: red;}
 
 .item {
+    margin: 5px;
+    display: inline-block;
+    padding: 15px;
+}
+
+.link {
     color: black;
     font-size: 25px;
     margin: 5px;
@@ -11,6 +17,8 @@ h1 {color: red;}
 .item a {
     text-decoration: none;
 }
+
+
 
 .menu {
     display: block;
