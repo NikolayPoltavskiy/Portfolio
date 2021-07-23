@@ -14,11 +14,9 @@ h1 {color: red;}
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.item a {
+a {
     text-decoration: none;
 }
-
-
 
 .menu {
     display: block;
