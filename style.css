@@ -15,6 +15,9 @@ h1 {color: red;}
 }
 
 a {
+    position: relative;
+    cursor: pointer;
+    line-height: 1;
     text-decoration: none;
 }
 
