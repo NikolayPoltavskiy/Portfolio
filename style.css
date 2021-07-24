@@ -21,6 +21,17 @@ a {
     text-decoration: none;
 }
 
+a::after {
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: gold;
+    content: "";
+    transition: width 0.3s ease-out;
+}
+
 .menu {
     display: block;
     text-align: center;
