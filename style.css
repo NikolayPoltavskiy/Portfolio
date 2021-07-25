@@ -6,10 +6,10 @@ h1 {color: red;}
 
 .link {
     color: black;
-    font-size: 25px;
+    font-size: 23px;
     display: inline-block;
-    margin: 10px;
-    padding: 25px;
+    margin: 30px;
+    padding: 5px;
     font-weight: bold;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -26,14 +26,14 @@ a::after {
     position: absolute;
     left: 0;
     width: 0;
-    height: 2px;
-    background-color: gold;
+    height: 5px;
+    background-color: yellow;
     content: "";
     transition: width 0.3s ease-out;
 }
 
 a:hover::after, a:focus::after {
-    width: 100%;
+    width:100%;
 }
 
 .menu {
