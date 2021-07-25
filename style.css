@@ -1,4 +1,4 @@
-h1 {color: red;}
+h1 {color: black;}
 
 .item {
     display: inline-block;
@@ -39,4 +39,9 @@ a:hover::after, a:focus::after {
 .menu {
     display: block;
     text-align: center;
+}
+
+.name {
+    font-size: 5em;
+    margin-bottom: 30px;
 }
