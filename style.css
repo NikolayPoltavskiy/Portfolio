@@ -49,3 +49,6 @@ a:hover::after, a:focus::after {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.img {
+    float: right;
+}
