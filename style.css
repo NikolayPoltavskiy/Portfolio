@@ -27,7 +27,7 @@ a::after {
     left: 0;
     width: 0;
     height: 5px;
-    background-color: yellow;
+    background-color: rgb(255, 238, 1);
     content: "";
     transition: width 0.3s ease-out;
 }
