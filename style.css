@@ -50,5 +50,6 @@ a:hover::after, a:focus::after {
 }
 
 .img {
+    margin: 10px;
     float: right;
 }
