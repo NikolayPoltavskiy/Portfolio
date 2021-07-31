@@ -43,7 +43,7 @@ a:hover::after, a:focus::after {
 
 .name {
     display: inline-block;
-    font-size: 6em;
+    font-size: 5em;
     margin: 40px;
     font-weight: 500;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
