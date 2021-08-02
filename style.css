@@ -53,3 +53,7 @@ a:hover::after, a:focus::after {
     margin: 10px;
     float: right;
 }
+
+.social p {
+    display: inline-block;
+}
