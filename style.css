@@ -41,16 +41,27 @@ a:hover::after, a:focus::after {
     text-align: center;
 }
 
-.name {
+.me {
     display: inline-block;
+}
+
+.name {
     font-size: 5em;
     margin: 40px;
+    margin-bottom: 60px;
     font-weight: 500;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.skills {
+    font-size: 2em;
+    margin: 40px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .img {
-    margin: 11px;
+    margin: 10px;
     float: right;
 }
 
