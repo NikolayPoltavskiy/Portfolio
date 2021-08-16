@@ -65,13 +65,7 @@ a:hover::after, a:focus::after {
     float: right;
 }
 
-.social p {
-    font-size: 1.5em;
-    font-weight: bold;
-    display: inline-block;
-    padding: 10px;
-}
-
-.vk {
+.icon {
     width: 3%;
+    padding: .5em;
 }
