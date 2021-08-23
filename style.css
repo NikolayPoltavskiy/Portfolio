@@ -71,6 +71,10 @@ a {
     padding: .5em;
 }
 
+.social {
+    margin-bottom: 40px;
+}
+
 .social p {
     font-size: 1.7em;
     font-weight: 800;
