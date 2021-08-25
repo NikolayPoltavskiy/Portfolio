@@ -45,6 +45,10 @@ a {
     display: inline-block;
 }
 
+.me img {
+    border-radius: 20px;
+}
+
 .name {
     font-size: 5em;
     margin: 40px;
