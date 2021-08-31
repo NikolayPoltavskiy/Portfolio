@@ -85,6 +85,10 @@ a {
     font-weight: 800;
 }
 
+.portfolio {
+    margin-bottom: 100px;
+}
+
 .portfolio span {
     font-size: 1.7em;
     font-weight: 800;
